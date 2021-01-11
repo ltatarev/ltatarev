@@ -1,16 +1,18 @@
-### Hi there 👋
+<img src="https://i.imgur.com/uKT4Oad.png" align="right" height="250"/>
 
-<!--
-**ltatarev/ltatarev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center"> 안녕 ! ✨</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+   <img src="https://i.imgur.com/KfAPSap.png" width="650" />
+   <img src="https://media.giphy.com/media/MTqDQqionCih6rwTh5/giphy.gif" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+<!-- <p align="center">
+  <img src="https://media.giphy.com/media/MTqDQqionCih6rwTh5/giphy.gif" />
+</p> -->
