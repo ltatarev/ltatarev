@@ -10,7 +10,7 @@
 
 
 <p align="center">
-   𝗺𝗼𝘀𝘁𝗹𝘆 𝗿𝗲𝗮𝗰𝘁, 𝗿𝗲𝗮𝗰𝘁-𝗻𝗮𝘁𝗶𝘃𝗲, 𝗻𝗼𝗱𝗲.𝗷𝘀, 𝘀𝗼𝗺𝗲𝘁𝗶𝗺𝗲𝘀 𝗵𝗮𝘃𝗶𝗻𝗴 𝗳𝘂𝗻 𝘄𝗶𝘁𝗵 𝗮𝗻𝗴𝘂𝗹𝗮𝗿
+   𝗺𝗼𝘀𝘁𝗹𝘆 𝗿𝗲𝗮𝗰𝘁, 𝗿𝗲𝗮𝗰𝘁-𝗻𝗮𝘁𝗶𝘃𝗲, 𝗻𝗼𝗱𝗲.𝗷𝘀, 𝘀𝗼𝗺𝗲𝘁𝗶𝗺𝗲𝘀 𝗵𝗮𝘃𝗶𝗻𝗴 𝗳𝘂𝗻 𝘄𝗶𝘁𝗵 nextjs
 </p>
 <p align="center">
    <img src="https://user-images.githubusercontent.com/38048916/178339944-c9bea3b1-d737-4fa7-b141-3fe902eaf6ac.gif" width="150" />
