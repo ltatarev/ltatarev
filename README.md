@@ -12,7 +12,7 @@
 
 
 <p align="center">
-   𝗺𝗼𝘀𝘁𝗹𝘆 𝗿𝗲𝗮𝗰𝘁, 𝗿𝗲𝗮𝗰𝘁-𝗻𝗮𝘁𝗶𝘃𝗲, 𝗻𝗼𝗱𝗲.𝗷𝘀, 𝘀𝗼𝗺𝗲𝘁𝗶𝗺𝗲𝘀 𝗵𝗮𝘃𝗶𝗻𝗴 𝗳𝘂𝗻 𝘄𝗶𝘁𝗵 nextjs
+   𝙢𝙤𝙨𝙩𝙡𝙮 𝙧𝙚𝙖𝙘𝙩, 𝙧𝙚𝙖𝙘𝙩 𝙣𝙖𝙩𝙞𝙫𝙚, 𝙣𝙤𝙙𝙚.𝙟𝙨; 𝙨𝙤𝙢𝙚𝙩𝙞𝙢𝙚𝙨 𝙝𝙖𝙫𝙞𝙣𝙜 𝙛𝙪𝙣 𝙬𝙞𝙩𝙝 𝙣𝙚𝙭𝙩𝙟𝙨
 </p>
  <p align="center">
    <img src="https://media.giphy.com/media/MTqDQqionCih6rwTh5/giphy.gif" width="550" />
