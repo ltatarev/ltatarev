@@ -14,8 +14,8 @@
 <p align="center">
    𝙢𝙤𝙨𝙩𝙡𝙮 𝙧𝙚𝙖𝙘𝙩, 𝙧𝙚𝙖𝙘𝙩 𝙣𝙖𝙩𝙞𝙫𝙚, 𝙣𝙤𝙙𝙚.𝙟𝙨; 𝙨𝙤𝙢𝙚𝙩𝙞𝙢𝙚𝙨 𝙝𝙖𝙫𝙞𝙣𝙜 𝙛𝙪𝙣 𝙬𝙞𝙩𝙝 𝙣𝙚𝙭𝙩𝙟𝙨
 </p>
- <p align="center">
+<!-- <p align="center">
    <img src="https://media.giphy.com/media/MTqDQqionCih6rwTh5/giphy.gif" width="550" />
-</p>
+</p> -->
 
 
